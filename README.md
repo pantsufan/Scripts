@@ -3,7 +3,7 @@ Linux scripts
 # List of Scripts:
 1. YouTube-Viewer 
 ## Info:
-Author: @trizen
+Author: [@trizen](https://github.com/trizen)
 
 Github: https://github.com/trizen/youtube-viewer
 
