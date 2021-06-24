@@ -10,4 +10,4 @@ Collection of private scripts, which I use everday
 - lofi.sh (24x7 lofi radio)
 - waldl (By [pystardust](https://github.com/pystardust/waldl))
 - wallup.sh (Uploads my wallpapers to GitHub)
-- yt-install.sh (Script to install [youtube-viewer](https://github.com/trizen/youtube-viewer)]
+- yt-install.sh (Script to install [youtube-viewer](https://github.com/trizen/youtube-viewer))
